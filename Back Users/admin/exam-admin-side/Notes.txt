@@ -1,0 +1,67 @@
+
+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
+Access token
+
+Parallel Tasks:
+- Response Evaluation page
+- Proctoring page
+- Student UI
+- Backend Implementation
+- API calls
+
+Next tasks:
+- Data table for respones
+- Implement logins
+- Implement redux state management for all components
+  - Dashboard done
+  - TestDetails done
+  - Sections and Questions
+  - TestControls
+  - People
+- Implement front-end form validation 
+  - question and section creation
+- Implement functionality for people page
+- Search filter in tests page
+
+API calls needed:
+- Login auth 
+- Create test - generate test & generate id
+
+- Get all tests (tests page)
+
+- Get test info (questions page)
+- Update details of test
+- Add/del/get Section 
+- Change order of Sections
+- Save section details
+- Change order of questions
+- Clone question
+- Save Question (create/update/delete)
+
+
+- Add/del/get roles of test
+- Get students of test
+
+- People import/download/template data(people page)
+- Creating/get/delete groups
+
+
+
+Work flow:
+
+- add roles to test
+- finish test creation interface and test APIs
+- Implement redux
+- finish questions creations interface and test APIs
+  - Sections
+  - Questions
+  - Options
+  - Ordering
+- adding people functionality
+- admin side logins
+- test filtering
+- role based logins
+
+
+- tables creation
+- 

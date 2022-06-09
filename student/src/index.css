@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ml-2{
+    margin-left: 25px;
+  }
+.navbar-nav{
+    margin-left: auto;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+.color-1{
+  color: #38a156;
+}
+
+.bg-1{
+  background-color: #9dffb7;
+}
+
+
+.pad{
+  background-color: #ffffff;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+
+.flui{
+  margin-left: 7em;
+  height: 100px;
+}
+
+.colorr{
+  color: #9dffb7;
+}
+
+.bg-back{
+  background-color: #0e0c0c;
+}
+
+#root{
+  min-height: 100vh;
+}
+.page-footer{
+  position: sticky;
+  top: 100%;
+}
+
+.posi{
+  margin-top: 130px;
+}
+
+.mar-top{
+  margin-top: 6rem;
+}
+
+.bg-col{
+  background-color: #898d8a; 
+}
+
+.logo_size{
+  font-size: 32px;
+}
+
+.margin_left{
+  margin-left: 62rem;
+}
+
+.margin_right{
+  margin-left: 5rem;
+}
+
+.cardsize{
+  width: 50rem;
+}
+
+.margin_lefter{
+  margin-left: 55rem;
+}
+
+.margin_submit{
+  margin-left: 13rem;
+}
+
+.mar-left{
+  margin-left: 140px;
+}
+
+.sps{
+  padding: 3px;
+  background-color: #9dffb7;
+}
+
+
+

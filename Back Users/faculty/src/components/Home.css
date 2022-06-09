@@ -1,0 +1,5 @@
+.fullscreen{
+    background: url('../assets/background1.jpg');
+    height: 100vh;
+    background-size: cover;
+}
